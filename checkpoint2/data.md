@@ -1,7 +1,7 @@
 # Сбор данных
 - **Data:** <br> 
 Был выбран датасет [stocktwits-crypto](https://huggingface.co/datasets/ElKulako/stocktwits-crypto). Содержит все сообщения, связанные с криптовалютой, с сайта [StockTwits](https://stocktwits.com) с 01.11.2021 по 15.06.2022. <br>
-В оригинале он представлен в виде двух листов формата .xlsx. В [файле](checkpoint2/xlsx_to_csv.ipynb) сделано их объединение и преобразование к формату .csv. <br>
+В оригинале он представлен в виде двух листов формата .xlsx. В [файле](https://github.com/kalashnikova04/RepoHSE/blob/master/checkpoint2/xlsx_to_csv.ipynb) сделано их объединение и преобразование к формату .csv. <br>
 - **Где найти?** <br>
 Исходный (st-data-full.xlsx) и итоговый (stc-data.csv) датасеты можно найти по [ссылке](https://disk.yandex.ru/d/PeA3ktwACYa1vA). <br> 
 - **Описание:** <br>
@@ -17,3 +17,4 @@
     - крипто-кошельков;
     - дублирующихся постов;
     - постов, содержащих менее 4 слов;
+Дополнительно небольшое описание представлено [здесь]()
